@@ -1,0 +1,51 @@
+Improve my edge detection (picture of person)
+images being sent for stop light
+hough transform thresh holding
+
+Computer vision book
+Richard Szeliski
+
+GA Tech Masters
+
+
+kibana
+python
+nodejs
+sequal vs no sequal (mongodb)
+
+
+houghlinep
+medianblur
+bilateral
+trackbar for most things
+color ranges rather than definite colors
+stop light correctly
+
+kernal
+corner harris
+dilate 
+criteria -> kmeans 
+(clustering) compactness labels centers
+tuple
+to identify peaks
+list of 4 xy tuples
+
+draw box 
+find homography
+how do i use opencvs remap function
+remap 
+
+find 4 point transform
+get perspective transform
+
+max it 10
+eps 1.5
+
+random centers
+9, 19, .07
+
+circle kf
+identify then track center
+pres debate pf
+q=0.1 * np.eye 4 
+r=0.1 * np.eye 2
